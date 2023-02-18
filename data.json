@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "nombre": "Vino",
+        "precio": 750,
+        "img": 
+          "https://www.craftmoments.com.ar/wp-content/uploads/2022/12/intocables-malbec1-1571034d0ea67f6c4a16146975103172-640-0.png",
+        "cantidad": 1
+    },
+    {
+        "id": 2,
+        "nombre": "Cerveza",
+        "precio": 450,
+        "img":
+          "https://cepadevinos.com/wp-content/uploads/2017/03/Cerveza-Corona-710Cc-CERVEZA-CORONA-DESC-X710ML-1-571.jpg",
+        "cantidad": 1
+
+    },
+    {
+        "id": 3,
+        "nombre": "Fernet",
+        "precio": 1800,
+        "img":
+          "https://statics.dinoonline.com.ar/imagenes/full_600x600_ma/3070001_f.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 4,
+        "nombre": "Champagne",
+        "precio": 2300,
+        "img":
+          "https://lagerhausbar.com/wp-content/uploads/2020/06/1040.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 5,
+        "nombre": "Vodka",
+        "precio": 2800,
+        "img":
+          "https://d3ugyf2ht6aenh.cloudfront.net/stores/968/403/products/absolut1-cbed64be8bfae5f0ad15978096693223-1024-1024.png",
+        "cantidad": 1
+    },
+    {
+        "id": 6,
+        "nombre": "Whiskey",
+        "precio": 12500,
+        "img":
+          "https://i0.wp.com/bodegaamparo.com.ar/tienda/wp-content/uploads/2020/05/135-Jack-Daniels-x-750.jpg?ssl=1",
+        "cantidad": 1
+          
+    }
+]
